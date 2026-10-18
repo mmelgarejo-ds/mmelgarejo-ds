@@ -71,7 +71,7 @@ Construyo soluciones basadas en datos que conectan el análisis técnico con pro
 | [Asistente de regalos (Proyecto Final)](https://github.com/mafelopezquintana/asistente-regalos-ecommerce) | Recomienda regalos individuales y combos por presupuesto · proyecto en equipo, a cargo de Ingeniería de Datos | ETL + categorización de productos + pipeline CI, sobre compras reales (Online Retail II) |
 | [credit-risk-mlops](https://github.com/mmelgarejo-ds/credit-risk-mlops) | Predice impago de crédito y lo despliega como pipeline MLOps reproducible | Recall 0,569 / precision 0,076 en la clase minoritaria — prioriza detectar impagos a costa de más falsas alarmas (trade-off explicado en el repo) · FastAPI + Docker + CI/CD + monitoreo de drift |
 | [FinanceGuard](https://github.com/mmelgarejo-ds/FinanceGuard) | Predice qué clientes abandonarán un banco digital | AUC 0,868 · Recall 0,666 con threshold optimizado (trade-off contra precision documentado en el repo) |
-| [TechCore Analytics](https://github.com/mmelgarejo-ds/TechCore-Analytics) | Dashboard de inteligencia de negocio | Power BI de 6 páginas con Row Level Security · Seaborn |
+| [TechCore Analytics](https://github.com/mmelgarejo-ds/TechCore-Analytics) | Dashboard de inteligencia de negocio | Medellín concentra 43% de las ventas — detecta en qué ciudades y productos priorizar inversión comercial |
 | [FleetLogix](https://github.com/mmelgarejo-ds/FleetLogix) | Infraestructura de datos para logística | PostgreSQL · Snowflake · AWS (diseño) — optimización de queries medida con `EXPLAIN ANALYZE` |
 | [InsightReach](https://github.com/mmelgarejo-ds/InsightReach) | EDA sobre 30.000 clientes de restaurantes, cruzado con la API de Yelp | Python · Pandas · oferta vs. demanda por tipo de cocina |
 
