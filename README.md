@@ -12,7 +12,7 @@
 
 ### Qué estoy haciendo
 
-- 🎓 Módulo 5 — MLOps y Deployment @ Soy Henry (M1–M4 completados)
+- 🎓 Proyecto Final de Data Science @ Soy Henry (Módulos 1–5 completados) — sistema de recomendación e-commerce en equipo, a cargo del frente de Ingeniería de Datos (ETL, categorización de productos, pipeline CI)
 - 🤝 Teaching Assistant voluntario
 - 🔨 Construyendo portfolio de proyectos aplicados
 
