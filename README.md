@@ -1,35 +1,60 @@
 # Mauricio Melgarejo
 
-**Data Scientist en formación** · Construyendo modelos que resuelven problemas reales.
+**Data Science · Machine Learning · Data Engineering**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+I build data-driven solutions that connect technical analysis with real business problems. I work across data exploration, machine learning, analytics and data pipelines, with a focus on building solutions that are understandable, reproducible and useful for decision-making.
+
+### What I focus on
+
+- **Machine Learning** — classification, customer churn and model evaluation
+- **Data Engineering** — data quality, ETL pipelines and reproducibility
+- **Business Analytics** — SQL, Power BI and actionable insights
+- **Applied projects** — translating business needs into measurable technical objectives
+
+### Featured Projects
+
+**🎁 Gift Recommendation Assistant**
+An e-commerce recommendation project that suggests individual gifts and product bundles within a budget, using historical retail transactions.
+My focus: data engineering, product categorization and pipeline reliability.
+[Repository](https://github.com/mafelopezquintana/asistente-regalos-ecommerce)
+
+**Credit Risk — MLOps**
+A credit-risk classification project with an API, automated tests, Docker and drift monitoring.
+Focus: evaluation under class imbalance, data leakage prevention and reproducibility.
+[Repository](https://github.com/mmelgarejo-ds/credit-risk-mlops)
+
+**FinanceGuard**
+A customer churn analysis project focused on identifying customers at risk of leaving and evaluating retention-oriented classification models.
+[Repository](https://github.com/mmelgarejo-ds/FinanceGuard)
+
+**TechCore Analytics**
+A business intelligence project connecting data preparation, relational modeling and interactive reporting.
+[Repository](https://github.com/mmelgarejo-ds/TechCore-Analytics)
+
+### How I work
+
+Business problem → Data quality → Analysis and modeling → Validation → Reproducible solution
+
+### Open to
+
+Data Science, Machine Learning, Analytics and Data Engineering opportunities, as well as collaborations on applied data projects.
+
+[LinkedIn](https://www.linkedin.com/in/mauricio-daniel-melgarejo-amaro-482596105/) · [GitHub](https://github.com/mmelgarejo-ds)
 
 ---
 
-### Qué estoy haciendo
+## Español
 
-- 🎓 Proyecto Final de Data Science @ Soy Henry (Módulos 1–5 completados) — sistema de recomendación e-commerce en equipo, a cargo del frente de Ingeniería de Datos (ETL, categorización de productos, pipeline CI)
-- 🤝 Teaching Assistant voluntario
-- 🔨 Construyendo portfolio de proyectos aplicados
+**Data Science · Machine Learning · Data Engineering**
 
----
+Construyo soluciones basadas en datos que conectan el análisis técnico con problemas reales de negocio. Trabajo en exploración de datos, machine learning, analítica y pipelines de datos, con foco en soluciones comprensibles, reproducibles y útiles para la toma de decisiones.
 
-### Stack
+### En qué me enfoco
 
-| Área | Herramientas |
-|---|---|
-| ML | scikit-learn · XGBoost · CatBoost · LightGBM · Optuna · Prophet |
-| Datos | Python · Pandas · NumPy · SQL · PostgreSQL · Snowflake |
-| BI | Power BI · DAX · Matplotlib · Seaborn |
-| MLOps | Docker · FastAPI · Git · CI/CD · AWS |
-
----
+- **Machine Learning** — clasificación, abandono de clientes y evaluación de modelos
+- **Ingeniería de Datos** — calidad de datos, pipelines ETL y reproducibilidad
+- **Analítica de negocio** — SQL, Power BI e insights accionables
+- **Proyectos aplicados** — traducir necesidades de negocio en objetivos técnicos medibles
 
 ### Proyectos destacados
 
@@ -42,8 +67,21 @@
 | [FleetLogix](https://github.com/mmelgarejo-ds/FleetLogix) | Infraestructura de datos para logística | PostgreSQL · Snowflake · AWS |
 | [InsightReach](https://github.com/mmelgarejo-ds/InsightReach) | EDA sobre 30.000 clientes de restaurantes | Python · Pandas |
 
----
+### Cómo trabajo
 
-### Contacto
+Problema de negocio → Calidad de datos → Análisis y modelado → Validación → Solución reproducible
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Melgarejo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-daniel-melgarejo-amaro-482596105/)
+### Stack
+
+| Área | Herramientas |
+|---|---|
+| ML | scikit-learn · XGBoost · CatBoost · LightGBM · Optuna · Prophet |
+| Datos | Python · Pandas · NumPy · SQL · PostgreSQL · Snowflake |
+| BI | Power BI · DAX · Matplotlib · Seaborn |
+| MLOps | Docker · FastAPI · Git · CI/CD · AWS |
+
+### Abierto a
+
+Oportunidades en Data Science, Machine Learning, Analítica e Ingeniería de Datos, y colaboraciones en proyectos aplicados de datos.
+
+[LinkedIn](https://www.linkedin.com/in/mauricio-daniel-melgarejo-amaro-482596105/) · [GitHub](https://github.com/mmelgarejo-ds)
