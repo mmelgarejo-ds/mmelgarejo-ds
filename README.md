@@ -19,17 +19,25 @@ My focus: data engineering, product categorization and pipeline reliability.
 [Repository](https://github.com/mafelopezquintana/asistente-regalos-ecommerce)
 
 **Credit Risk — MLOps**
-A credit-risk classification project with an API, automated tests, Docker and drift monitoring.
+A credit-risk classification project with an API, automated tests, Docker and drift monitoring. Recall 0.569 / precision 0.076 on the minority class — tuned to catch more defaults at the cost of more false alarms, a deliberate trade-off explained in the repo.
 Focus: evaluation under class imbalance, data leakage prevention and reproducibility.
 [Repository](https://github.com/mmelgarejo-ds/credit-risk-mlops)
 
 **FinanceGuard**
-A customer churn analysis project focused on identifying customers at risk of leaving and evaluating retention-oriented classification models.
+A customer churn analysis project focused on identifying customers at risk of leaving. AUC 0.868, recall 0.666 with an optimized decision threshold (trade-off against precision documented in the repo).
 [Repository](https://github.com/mmelgarejo-ds/FinanceGuard)
 
 **TechCore Analytics**
-A business intelligence project connecting data preparation, relational modeling and interactive reporting.
+A business intelligence project connecting data preparation, relational modeling and a 6-page interactive Power BI dashboard with row-level security.
 [Repository](https://github.com/mmelgarejo-ds/TechCore-Analytics)
+
+**FleetLogix**
+A logistics data infrastructure project — relational model, SQL query optimization (measured with `EXPLAIN ANALYZE`), a Snowflake data warehouse and a cloud architecture design on AWS.
+[Repository](https://github.com/mmelgarejo-ds/FleetLogix)
+
+**InsightReach**
+An exploratory data analysis of 30,000 restaurant customers, cross-referenced with the Yelp API to compare demand against real supply by cuisine type.
+[Repository](https://github.com/mmelgarejo-ds/InsightReach)
 
 ### How I work
 
@@ -61,11 +69,11 @@ Construyo soluciones basadas en datos que conectan el análisis técnico con pro
 | Proyecto | Qué resuelve | Resultado |
 |---|---|---|
 | [Asistente de regalos (Proyecto Final)](https://github.com/mafelopezquintana/asistente-regalos-ecommerce) | Recomienda regalos individuales y combos por presupuesto · proyecto en equipo, a cargo de Ingeniería de Datos | ETL + categorización de productos + pipeline CI, sobre compras reales (Online Retail II) |
-| [credit-risk-mlops](https://github.com/mmelgarejo-ds/credit-risk-mlops) | Predice impago de crédito y lo despliega como pipeline MLOps reproducible | FastAPI + Docker + CI/CD + monitoreo de drift · 43 tests |
-| [FinanceGuard](https://github.com/mmelgarejo-ds/FinanceGuard) | Predice qué clientes abandonarán un banco digital | AUC 0.868 · Recall 0.666 con threshold optimizado |
-| [TechCore Analytics](https://github.com/mmelgarejo-ds/TechCore-Analytics) | Dashboard de inteligencia de negocio | Power BI · Seaborn |
-| [FleetLogix](https://github.com/mmelgarejo-ds/FleetLogix) | Infraestructura de datos para logística | PostgreSQL · Snowflake · AWS |
-| [InsightReach](https://github.com/mmelgarejo-ds/InsightReach) | EDA sobre 30.000 clientes de restaurantes | Python · Pandas |
+| [credit-risk-mlops](https://github.com/mmelgarejo-ds/credit-risk-mlops) | Predice impago de crédito y lo despliega como pipeline MLOps reproducible | Recall 0,569 / precision 0,076 en la clase minoritaria — prioriza detectar impagos a costa de más falsas alarmas (trade-off explicado en el repo) · FastAPI + Docker + CI/CD + monitoreo de drift |
+| [FinanceGuard](https://github.com/mmelgarejo-ds/FinanceGuard) | Predice qué clientes abandonarán un banco digital | AUC 0,868 · Recall 0,666 con threshold optimizado (trade-off contra precision documentado en el repo) |
+| [TechCore Analytics](https://github.com/mmelgarejo-ds/TechCore-Analytics) | Dashboard de inteligencia de negocio | Power BI de 6 páginas con Row Level Security · Seaborn |
+| [FleetLogix](https://github.com/mmelgarejo-ds/FleetLogix) | Infraestructura de datos para logística | PostgreSQL · Snowflake · AWS (diseño) — optimización de queries medida con `EXPLAIN ANALYZE` |
+| [InsightReach](https://github.com/mmelgarejo-ds/InsightReach) | EDA sobre 30.000 clientes de restaurantes, cruzado con la API de Yelp | Python · Pandas · oferta vs. demanda por tipo de cocina |
 
 ### Cómo trabajo
 
