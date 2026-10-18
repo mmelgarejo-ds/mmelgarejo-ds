@@ -35,6 +35,8 @@
 
 | Proyecto | Qué resuelve | Resultado |
 |---|---|---|
+| [Asistente de regalos (Proyecto Final)](https://github.com/mafelopezquintana/asistente-regalos-ecommerce) | Recomienda regalos individuales y combos por presupuesto · proyecto en equipo, a cargo de Ingeniería de Datos | ETL + categorización de productos + pipeline CI, sobre compras reales (Online Retail II) |
+| [credit-risk-mlops](https://github.com/mmelgarejo-ds/credit-risk-mlops) | Predice impago de crédito y lo despliega como pipeline MLOps reproducible | FastAPI + Docker + CI/CD + monitoreo de drift · 43 tests |
 | [FinanceGuard](https://github.com/mmelgarejo-ds/FinanceGuard) | Predice qué clientes abandonarán un banco digital | AUC 0.868 · Recall 0.666 con threshold optimizado |
 | [TechCore Analytics](https://github.com/mmelgarejo-ds/TechCore-Analytics) | Dashboard de inteligencia de negocio | Power BI · Seaborn |
 | [FleetLogix](https://github.com/mmelgarejo-ds/FleetLogix) | Infraestructura de datos para logística | PostgreSQL · Snowflake · AWS |
